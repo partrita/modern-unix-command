@@ -436,7 +436,7 @@
     <pre><code>navi</code></pre>
   </p>
   <p align="center">
-    <a href="https://asciinema.org/a/406461" target="_blank"><img src="https://asciinema.org/a/406461.svg" width="600" /></a>
+    [![asciicast](https://asciinema.org/a/406461.svg)](https://asciinema.org/a/406461)
   </p>
 </p>
 
